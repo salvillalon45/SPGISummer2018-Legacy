@@ -11,8 +11,9 @@
 # Summary
 This website will showcase the projects and experiences I had during my time as an intern.
 
-#Technologies Used:
+# Technologies:
   - HTML
   - CSS
+  - Bootstrap
   - GitHub Pages
   - Git
