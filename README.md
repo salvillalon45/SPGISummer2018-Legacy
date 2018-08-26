@@ -5,9 +5,6 @@
 <br>
 *S&P Dow Jones Indices, Web Technology*
 <br>
-*salvador.villalon@spglobal.com*
-<br>
-*salvav1@uci.edu*
 <br>
 *August 26, 2018*
 
