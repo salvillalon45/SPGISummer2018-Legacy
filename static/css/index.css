@@ -5,6 +5,22 @@ body {
   font-family: 'PT Mono', monospace;
 }
 
+h2 {
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.week .project-title {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.week .title {
+  font-family: 'Merriweather', serif;
+}
+
+.about-me .about-text{
+  font-family: 'Merriweather', serif;
+}
 
 /* ------------------------------------
    Navigation
@@ -63,6 +79,7 @@ body {
 .about-text-title {
   font-size: 30px;
   font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
